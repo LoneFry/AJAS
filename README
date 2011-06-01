@@ -1,0 +1,23 @@
+Project     : AJAS
+               Asynchronus Javascript And Stuff
+               A collection of Javascript wheels including but not limited to
+                JSON based Ajax/XHR helpers
+                Validators for Phone,Email,SSN,CreditCard,Date,Time
+                UI features like a Tree widget and #Hash history manager
+                utilities for Strings, Vectors, Matrices and other Maths
+Created By  : LoneFry
+License     : CC BY-NC-SA
+               Creative Commons Attribution-NonCommercial-ShareAlike
+               http://creativecommons.org/licenses/by-nc-sa/3.0/
+Created on  : 2005
+               Began collecting JavaScript wheels into a central library
+               Added various functions from 2005-2008
+               Discovered jQuery in 2008, development ceased
+               Picked up, dusted off, pushed into GitHub 2011-6-1
+
+Many of these scripts are still useful, and still used, so I decided to share
+
+Most of these scripts worked before I rearranged the code for publishing
+I'll re-verify them as I re-use them, each function or file having notation
+
+Contributions welcome
