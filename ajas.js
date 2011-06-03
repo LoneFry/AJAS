@@ -13,7 +13,7 @@ String.prototype.dpx=function(){return this.replace(/px$/,'');}
 //root object for the AJAS namespace.
 //stuff that lends itself to having such short names that they ought not be in
 //the depths of a namespace, are kept shallow, here, with underscored names
-ajas=ajas?ajas:{};
+if("undefined" == typeof(ajas))ajas={};
 
 //a flag to cache whether we are in an IE browser.
 //set by conditional comments...

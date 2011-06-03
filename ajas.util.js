@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 ajas.util=ajas.util?ajas.util:{};
 
 ajas.util.addLoadHandler=function(f){

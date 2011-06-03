@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 ajas.matrix=ajas.matrix?ajas.matrix:{};
 
 //returns the sum of two 4x4 matrices

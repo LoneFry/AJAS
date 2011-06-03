@@ -12,6 +12,7 @@
  *
  * The function cancelBubble() is found in ajas.event.js
  *****************************************************************************/
+if("undefined" == typeof(ajas))ajas={};
 ajas.Phone=ajas.Phone?ajas.Phone:{};
 
 

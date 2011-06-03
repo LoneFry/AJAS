@@ -13,9 +13,8 @@
  * TLD list taken from http://data.iana.org/TLD/tlds-alpha-by-domain.txt
  * ref: RFC822,RFC1035,icann.org,iana.org
  *****************************************************************************/
+if("undefined" == typeof(ajas))ajas={};
 ajas.Email=ajas.validator.email?ajas.Email:{};
-
-
 
 
 // use this function for form feedback

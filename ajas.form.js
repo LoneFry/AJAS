@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 //for functions related to html forms
 ajas.form=ajas.form?ajas.form:{};
 

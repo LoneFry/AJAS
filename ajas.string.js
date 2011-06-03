@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 ajas.string=ajas.string?ajas.string:{};
 
 //Phonetic Alphabet

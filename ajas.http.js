@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 //namespace object for my http related functions
 //The way I want to do "Ajax" 
 //basically, I have the backend pass the data as a JS object, it's quicker than 

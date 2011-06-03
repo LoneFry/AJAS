@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 ajas.math=ajas.math?ajas.math:{};
 
 ajas.math.degToRad=function(deg){

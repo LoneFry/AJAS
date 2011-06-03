@@ -12,6 +12,7 @@
  * 
  * based on: http://www.braemoor.co.uk/software/creditcard.shtml
  *****************************************************************************/
+if("undefined" == typeof(ajas))ajas={};
 ajas.CreditCard=ajas.CreditCard?ajas.CreditCard:{};
 
 // use this function for form feedback

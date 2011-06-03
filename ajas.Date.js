@@ -22,10 +22,8 @@
  *  'Magic' date parsing, by Simon Willison (6th October 2003)
  *  http://simon.incutio.com/archive/2003/10/06/betterDateInput
  *****************************************************************************/
+if("undefined" == typeof(ajas))ajas={};
 ajas.Date=ajas.Date?ajas.Date:{};
-
-
-
 
 
 ajas.Date.aMonthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];

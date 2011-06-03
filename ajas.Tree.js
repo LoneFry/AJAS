@@ -30,7 +30,8 @@ ul.ajas_ui_tree#menu li.ajas_ui_tree_node ul li {display:block;position:static;}
 ul.ajas_ui_tree#menu a.ajas_ui_tree_nodeLabel {margin:0 10px;}
 
 */
-ajas.ui.Tree=function(sDelim,fClick) {
+if("undefined" == typeof(ajas))ajas={};
+ajas.Tree=function(sDelim,fClick) {
     var oNewTree = document.createElement('ul');
     oNewTree.className='ajas_ui_tree';
     oNewTree.bRoot=true;

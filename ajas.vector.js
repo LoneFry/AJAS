@@ -1,3 +1,5 @@
+if("undefined" == typeof(ajas))ajas={};
+ajas.vector=ajas.vector?ajas.vector:{};
 
 ajas.vector.add=function(v,w){
     return [v[0]+w[0],v[1]+w[1],v[2]+w[2],1];

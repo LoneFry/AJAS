@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 
 ajas.Time=ajas.Time?ajas.Time:{};
 

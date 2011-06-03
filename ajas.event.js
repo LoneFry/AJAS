@@ -1,3 +1,4 @@
+if("undefined" == typeof(ajas))ajas={};
 //namespace for JS event related code.
 ajas.event=ajas.event?ajas.event:{};
 
