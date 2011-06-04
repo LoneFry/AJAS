@@ -1,3 +1,15 @@
+/******************************************************************************
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
+ *                Functions for Events
+ *****************************************************************************/
+
 if("undefined" == typeof(ajas))ajas={};
 //namespace for JS event related code.
 ajas.event=ajas.event?ajas.event:{};

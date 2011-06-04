@@ -1,3 +1,15 @@
+/******************************************************************************
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
+ *                Functions for Form manipulation
+ *****************************************************************************/
+
 if("undefined" == typeof(ajas))ajas={};
 //for functions related to html forms
 ajas.form=ajas.form?ajas.form:{};

@@ -1,8 +1,14 @@
 /******************************************************************************
- * http://ajas.us/
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
  * The way I want to do dates (Dec 7, 2006) rev. (May 14, 2007)
  * If you find an error, or improvement, let me know: dev at ajas dot us
- * This file is free for use
  *
  * I have not tested every date, but it seems to work for all the dates tested
  *

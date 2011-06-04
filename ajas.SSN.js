@@ -1,8 +1,14 @@
 /******************************************************************************
- * http://ajas.us/
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
  * The way I want to do socials (Apr 11, 2007) rev. (Jun 14, 2007)
  * If you find an error, or improvement, let me know: dev at ajas dot us
- * This file is free for use
  * 
  * ajas.SSN.magic()           - call this onblur, scrubs and validates
  * ajas.SSN.validate()- call for true/false validation

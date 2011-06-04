@@ -1,9 +1,15 @@
 /******************************************************************************
- * http://ajas.us/
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
  * The way I want to do trees (May 08, 2007) rev. (May 14, 2007)
  * Looking and working right require proper CSS styling
  * If you find an error, or improvement, let me know: dev at ajas dot net
- * This file is free for use
  *
  * The function ajas.event.cancelBubble() is found in ajas.event.js
  *****************************************************************************/

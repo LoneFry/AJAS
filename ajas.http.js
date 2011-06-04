@@ -1,3 +1,15 @@
+/******************************************************************************
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
+ *                Functions for XHR and other "Ajax"-y stuff
+ *****************************************************************************/
+
 if("undefined" == typeof(ajas))ajas={};
 //namespace object for my http related functions
 //The way I want to do "Ajax" 

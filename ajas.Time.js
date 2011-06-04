@@ -1,5 +1,16 @@
-if("undefined" == typeof(ajas))ajas={};
+/******************************************************************************
+ * Project     : AJAS
+ *                Asynchronus Javascript And Stuff
+ * Created By  : LoneFry
+ * License     : CC BY-NC-SA
+ *                Creative Commons Attribution-NonCommercial-ShareAlike
+ *                http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * Latest Ver  : https://github.com/LoneFry/AJAS
+ *
+ *                Functions for Time validation
+ *****************************************************************************/
 
+if("undefined" == typeof(ajas))ajas={};
 ajas.Time=ajas.Time?ajas.Time:{};
 
 // use this function for form feedback
