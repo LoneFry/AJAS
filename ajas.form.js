@@ -10,7 +10,7 @@
  *                Functions for Form manipulation
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"form":{}};
 //for functions related to html forms
 ajas.form=ajas.form?ajas.form:{};
 

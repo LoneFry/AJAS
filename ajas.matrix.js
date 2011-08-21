@@ -10,7 +10,7 @@
  *                Functions for Matrix Math
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"matrix":{}};
 ajas.matrix=ajas.matrix?ajas.matrix:{};
 
 //returns the sum of two 4x4 matrices

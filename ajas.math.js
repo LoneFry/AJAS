@@ -10,7 +10,7 @@
  *                Functions for Math
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"math":{}};
 ajas.math=ajas.math?ajas.math:{};
 
 ajas.math.degToRad=function(deg){

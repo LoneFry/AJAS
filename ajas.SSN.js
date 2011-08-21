@@ -19,7 +19,7 @@
  * highgroup codes found monthly at http://www.ssa.gov/employer/highgroup.txt
  * SSA details: http://www.ssa.gov/employer/ssnweb.htm
  *****************************************************************************/
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"SSN":{}};
 ajas.SSN=ajas.SSN?ajas.SSN:{};
 
 

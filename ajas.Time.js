@@ -10,7 +10,7 @@
  *                Functions for Time validation
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"Time":{}};
 ajas.Time=ajas.Time?ajas.Time:{};
 
 // use this function for form feedback

@@ -10,7 +10,7 @@
  *                Functions of utility
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"util":{}};
 ajas.util=ajas.util?ajas.util:{};
 
 ajas.util.addLoadHandler=function(f){

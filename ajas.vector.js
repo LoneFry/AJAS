@@ -10,7 +10,7 @@
  *                Functions for Vector Math
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"vector":{}};
 ajas.vector=ajas.vector?ajas.vector:{};
 
 ajas.vector.add=function(v,w){

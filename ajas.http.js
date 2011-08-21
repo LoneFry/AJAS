@@ -10,7 +10,7 @@
  *                Functions for XHR and other "Ajax"-y stuff
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"http":{}};
 //namespace object for my http related functions
 //The way I want to do "Ajax" 
 //basically, I have the backend pass the data as a JS object, it's quicker than 

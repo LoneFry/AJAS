@@ -10,7 +10,7 @@
  *                Functions for String manipulation
  *****************************************************************************/
 
-if("undefined" == typeof(ajas))ajas={};
+if("undefined" == typeof(ajas))ajas={"string":{}};
 ajas.string=ajas.string?ajas.string:{};
 
 //Phonetic Alphabet
